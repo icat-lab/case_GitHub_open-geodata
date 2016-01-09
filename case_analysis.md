@@ -6,5 +6,14 @@
 ### 政府
 - [United States Government Publishing Office](https://github.com/usgpo)
 
+
+## 法案
+### 政府・自治体によるオフィシャルリポジトリ
+- FIRATA: The Federal Information Technology Acquisition Reform Act  [WhiteHouse/fitara](https://github.com/WhiteHouse/fitara)
+
+### 有志による勝手リポジトリ
+- ドイツの基本法
+  - [WIREDの解説記事](http://www.wired.com/2012/08/bundestag/) 
+
 ## 日本国内の地方公共団体等
 - [和歌山県](https://github.com/wakayama-pref-org)
