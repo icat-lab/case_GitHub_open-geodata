@@ -12,10 +12,11 @@
 ## 法案
 ### 政府・自治体によるオフィシャルリポジトリ
 - FIRATA: The Federal Information Technology Acquisition Reform Act  [WhiteHouse/fitara](https://github.com/WhiteHouse/fitara)
+  - [FITARAプルリクエスト案件追跡 - hackpad.com](https://hackpad.com/FITARA-zJSgGzR04L0)
 
 ### 有志による勝手リポジトリ
 - ドイツの基本法
-  - [WIREDの解説記事](http://www.wired.com/2012/08/bundestag/) 
+  - [WIREDの解説記事](http://www.wired.com/2012/08/bundestag/)
 
 ## 日本国内の地方公共団体等
 - [和歌山県](https://github.com/wakayama-pref-org)
