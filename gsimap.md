@@ -11,7 +11,9 @@
 
 ## references
 ### 国土地理院/地理院地図
-
+- 国土地理院GitHubアカウント https://github.com/gsi-cyberjapan
+  - 地理院地図 https://github.com/gsi-cyberjapan/gsimaps
+  - 一番最初のGitHub活用: gsi-cyberjapan/next: 【運用終了】電子国土Web.NEXT 技術掲示板 https://github.com/gsi-cyberjapan/next
 
 ### 地球地図
 - 地球地図とは｜国土地理院 http://www.gsi.go.jp/kankyochiri/gm_about.html
